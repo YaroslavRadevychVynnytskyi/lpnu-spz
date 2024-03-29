@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\3 course 2 sem\SPZ\L5\spz-lab5-client\main.cpp(53,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  spz-lab5-client.vcxproj -> C:\3 course 2 sem\SPZ\L5\spz-lab5-client\x64\Debug\spz-lab5-client.exe
